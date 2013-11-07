@@ -1,0 +1,977 @@
+{
+	"features": [{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [101.75935599977964, 36.62502600004991]
+		},
+		"properties": {
+			"team": {
+				"name": "青海",
+				"payroll": 14,
+				"ballpark": "Chase Field",
+				"city": "青海",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "西宁市",
+				"position": "Catcher",
+				"salary": 14
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.2732209997494, 38.46671399975134]
+		},
+		"properties": {
+			"team": {
+				"name": "宁夏",
+				"payroll": 2,
+				"ballpark": "Chase Field",
+				"city": "宁夏",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "银川市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [110.34086699961239, 20.04146299981761]
+		},
+		"properties": {
+			"team": {
+				"name": "海南",
+				"payroll": 4,
+				"ballpark": "Chase Field",
+				"city": "海南",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "海口市",
+				"position": "Catcher",
+				"salary": 4
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [103.8407330001279, 36.05563099977087]
+		},
+		"properties": {
+			"team": {
+				"name": "甘肃",
+				"payroll": 14,
+				"ballpark": "Chase Field",
+				"city": "甘肃",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "兰州市",
+				"position": "Catcher",
+				"salary": 12
+			},
+			{
+				"name": "天水市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.70567700009354, 26.582884000296406]
+		},
+		"properties": {
+			"team": {
+				"name": "贵州",
+				"payroll": 6,
+				"ballpark": "Chase Field",
+				"city": "贵州",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "贵阳市",
+				"position": "Catcher",
+				"salary": 6
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [87.61347699956394, 43.7982970004063]
+		},
+		"properties": {
+			"team": {
+				"name": "新疆",
+				"payroll": 2,
+				"ballpark": "Chase Field",
+				"city": "新疆",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "乌鲁木齐市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [102.70989800039246, 25.037927000330846]
+		},
+		"properties": {
+			"team": {
+				"name": "云南",
+				"payroll": 8,
+				"ballpark": "Chase Field",
+				"city": "云南",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "昆明市",
+				"position": "Catcher",
+				"salary": 8
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.54950600000193, 29.562098999869036]
+		},
+		"properties": {
+			"team": {
+				"name": "重庆",
+				"payroll": 12,
+				"ballpark": "Chase Field",
+				"city": "重庆",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "重庆市",
+				"position": "Catcher",
+				"salary": 12
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [125.3132350002951, 43.899449000271204]
+		},
+		"properties": {
+			"team": {
+				"name": "吉林",
+				"payroll": 27,
+				"ballpark": "Chase Field",
+				"city": "吉林",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "长春市",
+				"position": "Catcher",
+				"salary": 13
+			},
+			{
+				"name": "四平市",
+				"position": "Catcher",
+				"salary": 10
+			},
+			{
+				"name": "延边朝鲜族自治州",
+				"position": "Catcher",
+				"salary": 4
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.56730899961077, 37.86871799983588]
+		},
+		"properties": {
+			"team": {
+				"name": "山西",
+				"payroll": 57,
+				"ballpark": "Chase Field",
+				"city": "山西",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "太原市",
+				"position": "Catcher",
+				"salary": 57
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.20399300037673, 39.115646999609396]
+		},
+		"properties": {
+			"team": {
+				"name": "天津",
+				"payroll": 199,
+				"ballpark": "Chase Field",
+				"city": "天津",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "和平区",
+				"position": "Catcher",
+				"salary": 199
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.89427299989906, 28.6788600002888]
+		},
+		"properties": {
+			"team": {
+				"name": "江西",
+				"payroll": 86,
+				"ballpark": "Chase Field",
+				"city": "江西",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "南昌市",
+				"position": "Catcher",
+				"salary": 86
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.31955099997872, 22.82476400025848]
+		},
+		"properties": {
+			"team": {
+				"name": "广西",
+				"payroll": 18,
+				"ballpark": "Chase Field",
+				"city": "广西",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "南宁市",
+				"position": "Catcher",
+				"salary": 6
+			},
+			{
+				"name": "北海市",
+				"position": "Catcher",
+				"salary": 10
+			},
+			{
+				"name": "钦州市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [126.64496400038833, 45.75226200039106]
+		},
+		"properties": {
+			"team": {
+				"name": "黑龙江",
+				"payroll": 38,
+				"ballpark": "Chase Field",
+				"city": "黑龙江",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "哈尔滨市",
+				"position": "Catcher",
+				"salary": 36
+			},
+			{
+				"name": "大庆市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [108.94062500024364, 34.26859000022836]
+		},
+		"properties": {
+			"team": {
+				"name": "陕西",
+				"payroll": 33,
+				"ballpark": "Chase Field",
+				"city": "陕西",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "西安市",
+				"position": "Catcher",
+				"salary": 33
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [111.65074400013555, 40.797878999716076]
+		},
+		"properties": {
+			"team": {
+				"name": "内蒙古",
+				"payroll": 29,
+				"ballpark": "Chase Field",
+				"city": "内蒙古",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "呼和浩特市",
+				"position": "Catcher",
+				"salary": 27
+			},
+			{
+				"name": "通辽市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [117.30271299960533, 31.862558000251546]
+		},
+		"properties": {
+			"team": {
+				"name": "安徽",
+				"payroll": 42,
+				"ballpark": "Chase Field",
+				"city": "安徽",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "合肥市",
+				"position": "Catcher",
+				"salary": 34
+			},
+			{
+				"name": "滁州市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "六安市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "安庆市",
+				"position": "Catcher",
+				"salary": 4
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.39918100849684, 39.92542610363183]
+		},
+		"properties": {
+			"team": {
+				"name": "北京",
+				"payroll": 4730,
+				"ballpark": "Chase Field",
+				"city": "北京",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "西城区",
+				"position": "Catcher",
+				"salary": 730
+			},
+			{
+				"name": "南昌市",
+				"position": "Catcher",
+				"salary": 8
+			},
+			{
+				"name": "延庆县",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "朝阳区",
+				"position": "Catcher",
+				"salary": 977
+			},
+			{
+				"name": "海淀区",
+				"position": "Catcher",
+				"salary": 2487
+			},
+			{
+				"name": "武汉市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "厦门市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "阜新市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "西安市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "哈尔滨市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "福州市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "南京市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "石景山区",
+				"position": "Catcher",
+				"salary": 52
+			},
+			{
+				"name": "东城区",
+				"position": "Catcher",
+				"salary": 260
+			},
+			{
+				"name": "怀柔区",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "昌平区",
+				"position": "Catcher",
+				"salary": 66
+			},
+			{
+				"name": "大兴区",
+				"position": "Catcher",
+				"salary": 48
+			},
+			{
+				"name": "平谷区",
+				"position": "Catcher",
+				"salary": 5
+			},
+			{
+				"name": "通州区",
+				"position": "Catcher",
+				"salary": 22
+			},
+			{
+				"name": "丰台区",
+				"position": "Catcher",
+				"salary": 25
+			},
+			{
+				"name": "顺义区",
+				"position": "Catcher",
+				"salary": 14
+			},
+			{
+				"name": "房山区",
+				"position": "Catcher",
+				"salary": 6
+			},
+			{
+				"name": "密云县",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "门头沟区",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [119.30105600013441, 26.06617999990713]
+		},
+		"properties": {
+			"team": {
+				"name": "福建",
+				"payroll": 9,
+				"ballpark": "Chase Field",
+				"city": "福建",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "福州市",
+				"position": "Catcher",
+				"salary": 9
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.45932999967978, 31.23014100030695]
+		},
+		"properties": {
+			"team": {
+				"name": "上海",
+				"payroll": 98,
+				"ballpark": "Chase Field",
+				"city": "上海",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "静安区",
+				"position": "Catcher",
+				"salary": 98
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.98162199965566, 28.200410999568014]
+		},
+		"properties": {
+			"team": {
+				"name": "湖南",
+				"payroll": 10,
+				"ballpark": "Chase Field",
+				"city": "湖南",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "长沙市",
+				"position": "Catcher",
+				"salary": 10
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.32404900026121, 30.541770000185384]
+		},
+		"properties": {
+			"team": {
+				"name": "湖北",
+				"payroll": 64,
+				"ballpark": "Chase Field",
+				"city": "湖北",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "武汉市",
+				"position": "Catcher",
+				"salary": 62
+			},
+			{
+				"name": "黄石市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [104.06319000021841, 30.662530999606016]
+		},
+		"properties": {
+			"team": {
+				"name": "四川",
+				"payroll": 23,
+				"ballpark": "Chase Field",
+				"city": "四川",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "成都市",
+				"position": "Catcher",
+				"salary": 23
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.60685699955094, 38.91448200024415]
+		},
+		"properties": {
+			"team": {
+				"name": "辽宁",
+				"payroll": 118,
+				"ballpark": "Chase Field",
+				"city": "辽宁",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "大连市",
+				"position": "Catcher",
+				"salary": 10
+			},
+			{
+				"name": "盘锦市",
+				"position": "Catcher",
+				"salary": 12
+			},
+			{
+				"name": "沈阳市",
+				"position": "Catcher",
+				"salary": 60
+			},
+			{
+				"name": "锦州市",
+				"position": "Catcher",
+				"salary": 6
+			},
+			{
+				"name": "阜新市",
+				"position": "Catcher",
+				"salary": 12
+			},
+			{
+				"name": "葫芦岛市",
+				"position": "Catcher",
+				"salary": 8
+			},
+			{
+				"name": "抚顺市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "丹东市",
+				"position": "Catcher",
+				"salary": 8
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.46974700012403, 38.849763999708884]
+		},
+		"properties": {
+			"team": {
+				"name": "河北",
+				"payroll": 241,
+				"ballpark": "Chase Field",
+				"city": "河北",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "保定市",
+				"position": "Catcher",
+				"salary": 90
+			},
+			{
+				"name": "石家庄市",
+				"position": "Catcher",
+				"salary": 96
+			},
+			{
+				"name": "廊坊市",
+				"position": "Catcher",
+				"salary": 43
+			},
+			{
+				"name": "唐山市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "张家口市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "承德市",
+				"position": "Catcher",
+				"salary": 6
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [113.65675199980501, 34.74997499964654]
+		},
+		"properties": {
+			"team": {
+				"name": "河南",
+				"payroll": 23,
+				"ballpark": "Chase Field",
+				"city": "河南",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "郑州市",
+				"position": "Catcher",
+				"salary": 21
+			},
+			{
+				"name": "开封市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [120.16563399980932, 30.25231399959147]
+		},
+		"properties": {
+			"team": {
+				"name": "浙江",
+				"payroll": 62,
+				"ballpark": "Chase Field",
+				"city": "浙江",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "杭州市",
+				"position": "Catcher",
+				"salary": 40
+			},
+			{
+				"name": "宁波市",
+				"position": "Catcher",
+				"salary": 20
+			},
+			{
+				"name": "衢州市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.98834100023701, 36.64975900027768]
+		},
+		"properties": {
+			"team": {
+				"name": "山东",
+				"payroll": 151,
+				"ballpark": "Chase Field",
+				"city": "山东",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "济南市",
+				"position": "Catcher",
+				"salary": 68
+			},
+			{
+				"name": "泰安市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "青岛市",
+				"position": "Catcher",
+				"salary": 47
+			},
+			{
+				"name": "东营市",
+				"position": "Catcher",
+				"salary": 12
+			},
+			{
+				"name": "烟台市",
+				"position": "Catcher",
+				"salary": 8
+			},
+			{
+				"name": "济宁市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "聊城市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "淄博市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "枣庄市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [118.74849700013647, 32.07063399995916]
+		},
+		"properties": {
+			"team": {
+				"name": "江苏",
+				"payroll": 104,
+				"ballpark": "Chase Field",
+				"city": "江苏",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "南京市",
+				"position": "Catcher",
+				"salary": 58
+			},
+			{
+				"name": "泰州市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "扬州市",
+				"position": "Catcher",
+				"salary": 20
+			},
+			{
+				"name": "徐州市",
+				"position": "Catcher",
+				"salary": 10
+			},
+			{
+				"name": "无锡市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "常州市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "盐城市",
+				"position": "Catcher",
+				"salary": 2
+			},
+			{
+				"name": "镇江市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "苏州市",
+				"position": "Catcher",
+				"salary": 2
+			}]
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.0999629996927, 22.549033000372713]
+		},
+		"properties": {
+			"team": {
+				"name": "广东",
+				"payroll": 96,
+				"ballpark": "Chase Field",
+				"city": "广东",
+				"league": "National League",
+				"year": "2012"
+			},
+			"children": [{
+				"name": "深圳市",
+				"position": "Catcher",
+				"salary": 22
+			},
+			{
+				"name": "广州市",
+				"position": "Catcher",
+				"salary": 58
+			},
+			{
+				"name": "佛山市",
+				"position": "Catcher",
+				"salary": 8
+			},
+			{
+				"name": "清远市",
+				"position": "Catcher",
+				"salary": 4
+			},
+			{
+				"name": "汕头市",
+				"position": "Catcher",
+				"salary": 4
+			}]
+		}
+	}]
+}

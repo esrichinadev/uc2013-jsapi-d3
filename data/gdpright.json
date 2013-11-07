@@ -1,0 +1,37 @@
+{ "features": [
+  {
+    "geometry" : {
+      "type": "Point",
+      "coordinates" : [116.46,39.92]
+    },
+    "properties" : {
+      "team" : {
+        "name" : "beijing",
+        "payroll" : 17801.0,
+        "ballpark" : "Chase Field",
+        "city" : "北京",
+        "league" : "National League",
+        "year" : "2013"
+      },
+      "children" : [
+        { "name" : "东城区", "position" : "Catcher", "salary" : 1447.9 },
+        { "name" : "西城区" , "position" : "Outfield", "salary" : 2578.6},
+        { "name" : "海淀区" , "position" : "Left Field", "salary" : 3497.9 },
+        { "name" : "朝阳区" , "position" : "Relief Pitcher", "salary" : 3519.0 },
+        { "name" : "丰台区" , "position" : "Relief Pitcher", "salary" : 922.5 },
+        { "name" : "石景山区" , "position" : "Right Field", "salary" : 343.6 },
+        { "name" : "昌平区" , "position" : "Starting Pitcher", "salary" : 500.0 },
+        { "name" : "大兴区" , "position" : "2nd Base", "salary" : 1215.0 },
+        { "name" : "通州区" , "position" : "Starting Pitcher", "salary" : 448.0 },
+        { "name" : "顺义区" , "position" : "Starting Pitcher", "salary" : 1103.2 },
+        { "name" : "房山区" , "position" : "Relief Pitcher", "salary" : 445.0 },
+        { "name" : "门头沟区" , "position" : "1st Base", "salary" : 115.5 },
+        { "name" : "怀柔区" , "position" : "Center Field", "salary" : 186.5 },
+        { "name" : "平谷区" , "position" : "3rd Base", "salary" : 153.2 },
+        { "name" : "延庆县" , "position" : "Shortstop", "salary" : 83.5 },
+        { "name" : "密云县" , "position" : "Shortstop", "salary" : 178.5 }
+      ]
+    }
+  } 
+  ]
+}

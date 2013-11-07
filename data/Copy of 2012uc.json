@@ -1,0 +1,5258 @@
+[{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [101.75935599977964, 36.62502600004991]
+	},
+	"properties": {
+		"team": {
+			"name": "青海",
+			"payroll": 5,
+			"ballpark": "Chase Field",
+			"city": "青海",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "雷浩川",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青海大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张乐春",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青海大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "赵检赟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青海大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "王苑",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青海省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "杨鸿海",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青海省基础地理信息中心",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [106.2732209997494, 38.46671399975134]
+	},
+	"properties": {
+		"team": {
+			"name": "宁夏",
+			"payroll": 1,
+			"ballpark": "Chase Field",
+			"city": "宁夏",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "苟在明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁夏水利厅信息化建设办公室",
+			"industry": "水利"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [110.34086699961239, 20.04146299981761]
+	},
+	"properties": {
+		"team": {
+			"name": "海南",
+			"payroll": 1,
+			"ballpark": "Chase Field",
+			"city": "海南",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "马利",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "海南省环境资源信息中心",
+			"industry": "国土/地矿"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [103.8407330001279, 36.05563099977087]
+	},
+	"properties": {
+		"team": {
+			"name": "甘肃",
+			"payroll": 6,
+			"ballpark": "Chase Field",
+			"city": "甘肃",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "李晓兵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "甘肃省林业调查规划院",
+			"industry": "其它"
+		},
+		{
+			"name": "杨军义",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天水市三和数码测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "甘肃省国土资源规划研究院",
+			"industry": "国土"
+		},
+		{
+			"name": "魏晓东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "甘肃农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "汪润兰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青海大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "杨建科、钱金波、吴文魁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "甘肃省基础地理信息中心",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [106.70567700009354, 26.582884000296406]
+	},
+	"properties": {
+		"team": {
+			"name": "贵州",
+			"payroll": 3,
+			"ballpark": "Chase Field",
+			"city": "贵州",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "吴勋元",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "贵州大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "方丹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "贵州省第三测绘院",
+			"industry": "数字城市"
+		},
+		{
+			"name": "朱星磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "贵州师范大学",
+			"industry": "教育/院校"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [87.61347699956394, 43.7982970004063]
+	},
+	"properties": {
+		"team": {
+			"name": "新疆",
+			"payroll": 1,
+			"ballpark": "Chase Field",
+			"city": "新疆",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "派祖拉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "新疆大学",
+			"industry": "教育/院校"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [102.70989800039246, 25.037927000330846]
+	},
+	"properties": {
+		"team": {
+			"name": "云南",
+			"payroll": 4,
+			"ballpark": "Chase Field",
+			"city": "云南",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "冉磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "昆明市测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "杨森",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "云南省测绘资料档案馆",
+			"industry": "测绘"
+		},
+		{
+			"name": "尹兆良",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "云南省测绘资料档案馆",
+			"industry": "测绘"
+		},
+		{
+			"name": "许骏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "云南省测绘资料档案馆",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [106.54950600000193, 29.562098999869036]
+	},
+	"properties": {
+		"team": {
+			"name": "重庆",
+			"payroll": 7,
+			"ballpark": "Chase Field",
+			"city": "重庆",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "王金亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "魏学渊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆市万达网际信息有限责任公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "鲁嘉濠",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆地质矿产研究院",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "张艳军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆市环保信息中心",
+			"industry": "环保"
+		},
+		{
+			"name": "孙德亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆师范大学校 重庆图科科技有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "谢年",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆数字城市科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "颜春波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "重庆数字城市科技有限公司",
+			"industry": "数字城市"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [125.3132350002951, 43.899449000271204]
+	},
+	"properties": {
+		"team": {
+			"name": "吉林",
+			"payroll": 16,
+			"ballpark": "Chase Field",
+			"city": "吉林",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "王平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "东北师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "殷健桐",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张嘉雯",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "郑望安",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "于福东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "聂岩",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州奥格",
+			"industry": "城市管理"
+		},
+		{
+			"name": "李晓勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州奥格信息技术有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "朱琳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林双佳科技有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "董振",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "延边大学理学院地理系",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "卜磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "延边大学理学院地理系",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "李延生",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京波尔通信技术股份有限公司",
+			"industry": "电信"
+		},
+		{
+			"name": "洪德法",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长春市城乡规划设计研究院",
+			"industry": "规划"
+		},
+		{
+			"name": "梁雨华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林师范大学旅游与地理科学学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "于国强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "吉林师范大学旅游与地理科学学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "田中原",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京波尔通信技术股份有限公司",
+			"industry": "电信"
+		},
+		{
+			"name": "郝婕宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京波尔通信技术股份有限公司",
+			"industry": "电信"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [112.56730899961077, 37.86871799983588]
+	},
+	"properties": {
+		"team": {
+			"name": "山西",
+			"payroll": 30,
+			"ballpark": "Chase Field",
+			"city": "山西",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "张宪哲",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省综合地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "贾晓亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省测绘局",
+			"industry": "测绘"
+		},
+		{
+			"name": "谢强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省综合地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "康丹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省综合地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "董宇阳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国遥感应用协会秘书处",
+			"industry": "遥感"
+		},
+		{
+			"name": "刘鹏珍",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "原志芳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "顾杨爱",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "董涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "陈峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "刘充",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "黄明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "苏巧梅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "杜孙稳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "朱文博",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "侯莉琴",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "王建民",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "任鸿瑞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": " 陈波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省综合地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "杨俊艳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原市基础地理数据中心",
+			"industry": "数字城市"
+		},
+		{
+			"name": "王琪",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原市基础地理数据中心",
+			"industry": "数字城市"
+		},
+		{
+			"name": "苏辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原市基础地理数据中心",
+			"industry": "数字城市"
+		},
+		{
+			"name": "王雨露",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "太原市基础地理数据中心",
+			"industry": "数字城市"
+		},
+		{
+			"name": "赵树楷",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省林业调查规划院",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "赵磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省遥感中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "张维娜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省测绘资料档案馆",
+			"industry": "测绘"
+		},
+		{
+			"name": "李瑞芳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省测绘资料档案馆",
+			"industry": "测绘"
+		},
+		{
+			"name": "邢淑芳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省测绘资料档案馆",
+			"industry": "测绘"
+		},
+		{
+			"name": "卫岩磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省遥感中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘思达",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山西省遥感中心",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [117.20399300037673, 39.115646999609396]
+	},
+	"properties": {
+		"team": {
+			"name": "天津",
+			"payroll": 92,
+			"ballpark": "Chase Field",
+			"city": "天津",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "刘文利",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津龙网科技发展有限公司",
+			"industry": "海洋"
+		},
+		{
+			"name": "薛长宝",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津赛乐新创通信技术有限公司",
+			"industry": "电信"
+		},
+		{
+			"name": "周俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津水务局",
+			"industry": "其它"
+		},
+		{
+			"name": "李彦涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市水利科学研究院",
+			"industry": "其它"
+		},
+		{
+			"name": "夏中华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市水利科学研究院",
+			"industry": "其它"
+		},
+		{
+			"name": "顾晓蓉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市水利科学研究院",
+			"industry": "其它"
+		},
+		{
+			"name": "刘红艳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市水利科学研究院",
+			"industry": "其它"
+		},
+		{
+			"name": "赵光俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "刘玉洁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "连璐真",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北工业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "刘万龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "刘哲甫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "李宽荣",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "高勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "王迎亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "张雪成",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "赵筱磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "康林冲",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋信息中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "刘东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京新智感科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "李刚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市城市规划设计研究院",
+			"industry": "规划"
+		},
+		{
+			"name": "孙保磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市城市规划设计研究院",
+			"industry": "规划"
+		},
+		{
+			"name": "张恒",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市城市规划设计研究院",
+			"industry": "规划"
+		},
+		{
+			"name": "张一鸣",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市城市规划设计研究院",
+			"industry": "规划"
+		},
+		{
+			"name": "杨洪娇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北工业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "崔宇峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东旭普空间信息技术发展有限公司",
+			"industry": "规划"
+		},
+		{
+			"name": "王燕",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "测绘"
+		},
+		{
+			"name": "闫霈",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "测绘"
+		},
+		{
+			"name": "雷培圣",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "测绘"
+		},
+		{
+			"name": "赵吉红",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "国土"
+		},
+		{
+			"name": "李锁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "国土"
+		},
+		{
+			"name": "闫勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "国土"
+		},
+		{
+			"name": "孙维平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质工程勘察院",
+			"industry": "国土"
+		},
+		{
+			"name": "付长松",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "金鑫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "邓晔",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津天地伟业数码科技有限公司",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "周小希",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津地质调查中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "刘同海",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津农学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "王宏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "蔡小平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中科遥感信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "李军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津海洋测绘研究所",
+			"industry": "海洋"
+		},
+		{
+			"name": "王文俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津大学计算机学院",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "齐建怀",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "水利部海河水利委员会",
+			"industry": "水利"
+		},
+		{
+			"name": "高振宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地籍管理中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "门春春",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地籍管理中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "曹子剑",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地籍管理中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "李艳雯",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "程三胜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市星际空间地理信息工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "赵娜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津农学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张艳杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋信息中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "曲辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋信息中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "王晨星",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋信息中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "沈飞飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天集市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李仕佳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李培彦",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市气象科学研究所",
+			"industry": "气象"
+		},
+		{
+			"name": "赵新海",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津农学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张振",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市水利科学研究院",
+			"industry": "水利"
+		},
+		{
+			"name": "仝川",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京新智感科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "徐运",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "徐洋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北工业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张建",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北工业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "刘强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北工业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "陈钒",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津财经大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "王雍",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津天大求电力实新技术股份有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "徐宁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "水利部海河水利委员会水资源保护科学研究所",
+			"industry": "水利"
+		},
+		{
+			"name": "刘东亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津天大求实电力新技术股份有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "刘保柱",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津天大求实电力新技术股份有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "周鹏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "于海波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津金宇信息技术有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "吴永军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津金宇信息技术有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "王冬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津金宇信息技术有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "祁国龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市普迅电力信息技术有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "高金强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "水利部海河水利委员会水资源保护科学研究所",
+			"industry": "水利"
+		},
+		{
+			"name": "徐召",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南开大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "于名飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南开大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "李功祥",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市公安局",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "吴森",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市公安局",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "翟林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "张三",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津地质勘察院",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "高杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津生态城投资开发有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "党增明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津生态城投资开发有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "刘利东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "赵元强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市国土资源和房屋管理研究中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "周津斌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市国土资源和房屋管理研究中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "阮柏林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市国土房管局",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "刘玉超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市地质资料馆",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "侯佳渝",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市国土资源和房屋管理局地质事务中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "刘子潇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘熠民",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "纪宏宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国航海图书出版社",
+			"industry": "测绘"
+		},
+		{
+			"name": "景磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津天地伟业数码科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "闵星",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "梅连辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "天津市测绘院",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [115.89427299989906, 28.6788600002888]
+	},
+	"properties": {
+		"team": {
+			"name": "江西",
+			"payroll": 10,
+			"ballpark": "Chase Field",
+			"city": "江西",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "赵辉辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江西华宇软件股份有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "李崇隽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江西华宇软件股份有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "李维",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "华宇软件股份有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "郑晖",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "华宇软件股份有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "刘木生",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江西省遥感信息系统中心",
+			"industry": "遥感"
+		},
+		{
+			"name": "陈志",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江西农业大学土地科学研究所",
+			"industry": "国土"
+		},
+		{
+			"name": "廖明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江西省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "邓鹏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "贝谷科技股份有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "罗敏君",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "贝谷科技股份有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "潘柳芳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江西农业大学土地科学研究所",
+			"industry": "国土/地矿"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.31955099997872, 22.82476400025848]
+	},
+	"properties": {
+		"team": {
+			"name": "广西",
+			"payroll": 9,
+			"ballpark": "Chase Field",
+			"city": "广西",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "黄日斌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "智星海（江苏）数字科技有限公司",
+			"industry": "规划"
+		},
+		{
+			"name": "黄日娟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西壮族自治区基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "黄丽丽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西斯道拉恩所林业有限公司",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "陈冠宣",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西斯道拉恩所林业有限公司",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "路卫冬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西斯道拉恩所林业有限公司",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "林发卿",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西斯道拉恩所林业有限公司",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "赵昌青",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西斯道拉恩所林业有限公司",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "王龙波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广西地图院",
+			"industry": "测绘"
+		},
+		{
+			"name": "丁志广",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "钦州市测绘院",
+			"industry": "国土/地矿"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [126.64496400038833, 45.75226200039106]
+	},
+	"properties": {
+		"team": {
+			"name": "黑龙江",
+			"payroll": 19,
+			"ballpark": "Chase Field",
+			"city": "黑龙江",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "李治",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "东北林业大学",
+			"industry": "遥感"
+		},
+		{
+			"name": "李巍",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江科技学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "徐永涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "哈尔滨大源恒晟通讯技术有限公司",
+			"industry": "电信"
+		},
+		{
+			"name": "谭跃",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "东北林业大学",
+			"industry": "国土"
+		},
+		{
+			"name": "陈相兆",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地震局工程力学研究所",
+			"industry": "其它"
+		},
+		{
+			"name": "邓宏宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地震局工程力学研究所",
+			"industry": "其它"
+		},
+		{
+			"name": "周鹤南",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "哈尔滨鸿德亦泰数码科技有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "沈海娟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "哈尔滨鸿德亦泰数码科技有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "张禹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "苏光日",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "任思思",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "周博飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "赵铁锋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "耿关庆",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "大庆油田工程有限公司",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "王军（共两人）",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江省基础地理信息中心（测绘局）",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘春生",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江省气象台气候中心",
+			"industry": "气象"
+		},
+		{
+			"name": "董再兴",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "哈尔滨中和信息技术有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "代玉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "张学之",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黑龙江地理信息工程院",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [108.94062500024364, 34.26859000022836]
+	},
+	"properties": {
+		"team": {
+			"name": "陕西",
+			"payroll": 14,
+			"ballpark": "Chase Field",
+			"city": "陕西",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "王俊岭",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "陕西师范大学研究生院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "薛勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长安大学",
+			"industry": "其它"
+		},
+		{
+			"name": "马铁兵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安市政府办公厅",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "王海龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安煤航测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李玉芳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安煤航测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "张卫周",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安山脉科技发展有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "吴西贵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安山脉科技发展有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "张咏新",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安山脉科技发展有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "朱世斌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安山脉科技发展有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "李城",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安煤航",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "张智",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家测绘局陕西基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "赵牡丹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西北大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "崔晓临",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安科技大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "薛蛟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西安交大长天软件有限责任公司",
+			"industry": "环保"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [111.65074400013555, 40.797878999716076]
+	},
+	"properties": {
+		"team": {
+			"name": "内蒙古",
+			"payroll": 13,
+			"ballpark": "Chase Field",
+			"city": "内蒙古",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "田军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古农业大学教务处",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "哈申高娃",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国土资源",
+			"industry": "国土"
+		},
+		{
+			"name": "李锦荣",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "水利部牧区水利科学研究所",
+			"industry": "其它"
+		},
+		{
+			"name": "安冬妮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古自治区污染物在线监控中心",
+			"industry": "环保"
+		},
+		{
+			"name": "袁兴刚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古科电数据服务有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "关明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古科电数据服务有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "南晓冬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古科电数据服务有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "李国梁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古自治区林业监测规划院",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "刘海松",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古自治区林业监测规划院",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "年学东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "呼和浩特市内蒙古林业监测规划院",
+			"industry": "农业/林业"
+		},
+		{
+			"name": "安妮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "吴国周",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古气象局",
+			"industry": "气象"
+		},
+		{
+			"name": "冯旭宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "内蒙古气象局",
+			"industry": "气象"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [117.30271299960533, 31.862558000251546]
+	},
+	"properties": {
+		"team": {
+			"name": "安徽",
+			"payroll": 18,
+			"ballpark": "Chase Field",
+			"city": "安徽",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "吴伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "迈普德康",
+			"industry": "国土"
+		},
+		{
+			"name": "吕永来",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "合肥工业大学土木与水利学院测量工程系",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "李鹏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "滁州学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "关鹏飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "皖西学院",
+			"industry": "农业"
+		},
+		{
+			"name": "王强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "于书媛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽省地理信息中心",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "王庆人",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张友华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "孟天祥",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "刘萍",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "白崇宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "合肥工业大学土木与水利学院水利工程系",
+			"industry": "管线"
+		},
+		{
+			"name": "朱汉伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "Esrichina",
+			"industry": "数字城市"
+		},
+		{
+			"name": "杨太明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽省气象科学研究所",
+			"industry": "气象"
+		},
+		{
+			"name": "汪跃平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽省第四测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "谢根锋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海梦擎信息科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "王爱国",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽省通途信息技术有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "田敏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "安徽省通途信息技术有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "刘曼",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "合工大",
+			"industry": "教育/院校"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [116.39918100849684, 39.92542610363183]
+	},
+	"properties": {
+		"team": {
+			"name": "北京",
+			"payroll": 2063,
+			"ballpark": "Chase Field",
+			"city": "北京",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [
+			{
+				"name": "西城区",
+				"position": "Catcher",
+				"salary": 339
+			}, {
+				"name": "南昌市",
+				"position": "Catcher",
+				"salary": 4
+			}, {
+				"name": "延庆县",
+				"position": "Catcher",
+				"salary": 2
+			}, {
+				"name": "朝阳区",
+				"position": "Catcher",
+				"salary": 423
+			}, {
+				"name": "海淀区",
+				"position": "Catcher",
+				"salary": 1076
+			}, {
+				"name": "武汉市",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "厦门市",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "阜新市",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "西安市",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "哈尔滨市",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "福州市",
+				"position": "Catcher",
+				"salary": 2
+			}, {
+				"name": "南京市",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "石景山区",
+				"position": "Catcher",
+				"salary": 20
+			}, {
+				"name": "东城区",
+				"position": "Catcher",
+				"salary": 109
+			}, {
+				"name": "怀柔区",
+				"position": "Catcher",
+				"salary": 1
+			}, {
+				"name": "昌平区",
+				"position": "Catcher",
+				"salary": 29
+			}, {
+				"name": "平谷区",
+				"position": "Catcher",
+				"salary": 2
+			}, {
+				"name": "大兴区",
+				"position": "Catcher",
+				"salary": 16
+			}, {
+				"name": "通州区",
+				"position": "Catcher",
+				"salary": 9
+			}, {
+				"name": "丰台区",
+				"position": "Catcher",
+				"salary": 13
+			}, {
+				"name": "顺义区",
+				"position": "Catcher",
+				"salary": 7
+			}, {
+				"name": "房山区",
+				"position": "Catcher",
+				"salary": 3
+			}, {
+				"name": "密云县",
+				"position": "Catcher",
+				"salary": 2
+			}
+		]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [119.30105600013441, 26.06617999990713]
+	},
+	"properties": {
+		"team": {
+			"name": "福建",
+			"payroll": 4,
+			"ballpark": "Chase Field",
+			"city": "福建",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "李代超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "福州大学福建省空间信息工程研究中心",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "刘梦鑫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "福州大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "刘爽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "福建省交通信息通信中心",
+			"industry": "交通"
+		},
+		{
+			"name": "test",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "test",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.45932999967978, 31.23014100030695]
+	},
+	"properties": {
+		"team": {
+			"name": "上海",
+			"payroll": 46,
+			"ballpark": "Chase Field",
+			"city": "上海",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "吴张峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘陆",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海杰狮信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "余柏蒗",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "华东师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "王康华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市排水管理处",
+			"industry": "其它"
+		},
+		{
+			"name": "沈蔚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海海洋大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "朱卫东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海海洋大学海洋科学学院",
+			"industry": "测绘"
+		},
+		{
+			"name": "吴萍",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局东海预报中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "张弛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局",
+			"industry": "海洋"
+		},
+		{
+			"name": "刁红军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海三桥",
+			"industry": "其它"
+		},
+		{
+			"name": "涂辛茹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海海洋大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "顾佳丽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "周颖",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "徐浩",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "李子原",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "吴宾",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "华东师范大学资源与环境科学学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "陈晨",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "同济大学",
+			"industry": "规划"
+		},
+		{
+			"name": "钮心毅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "同济大学",
+			"industry": "规划"
+		},
+		{
+			"name": "韦国坚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "施耐德电气",
+			"industry": "数字城市"
+		},
+		{
+			"name": "李玮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "季龙艳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "文君亚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "孙乾",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "颜愉愉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "方钧",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海积成慧集信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "张卫红",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海城市排水有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "邓迅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "项宜芸",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市人口和发展研究中心",
+			"industry": "其它"
+		},
+		{
+			"name": "沙卫涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市人口和计划生育委员会",
+			"industry": "其它"
+		},
+		{
+			"name": "任宏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市疾病预防控制中心",
+			"industry": "卫生"
+		},
+		{
+			"name": "杨何攀",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海懋图信息科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "李佼",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市防汛信息中心",
+			"industry": "水利"
+		},
+		{
+			"name": "龚岳松",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市防汛信息中心",
+			"industry": "水利"
+		},
+		{
+			"name": "吕文斌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市防汛信息中心",
+			"industry": "水利"
+		},
+		{
+			"name": "洪敏慎",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市防汛信息中心",
+			"industry": "水利"
+		},
+		{
+			"name": "胡广远",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海网波软件有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "乔峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海网波软件有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "朱鹏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海网波软件有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "陈文亚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海梦擎信息科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "郭念祖",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海梦擎信息科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "周金良",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海梦擎信息科技技术有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "李燕婷",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市疾病预防控制中心",
+			"industry": "卫生"
+		},
+		{
+			"name": "张桂芬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "段超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海市城市建设投资开发总公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "李永浮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海大学",
+			"industry": "规划"
+		},
+		{
+			"name": "陆贤",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "上海齐维信息科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "陈佐旗",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "华东师范大学",
+			"industry": "教育/院校"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [112.98162199965566, 28.200410999568014]
+	},
+	"properties": {
+		"team": {
+			"name": "湖南",
+			"payroll": 4,
+			"ballpark": "Chase Field",
+			"city": "湖南",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "唐智华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖南省国土资源规划院",
+			"industry": "国土"
+		},
+		{
+			"name": "董胜光",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖南省第二测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "全思湘",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖南省第二测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "严林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中南大学",
+			"industry": "其它"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [114.32404900026121, 30.541770000185384]
+	},
+	"properties": {
+		"team": {
+			"name": "湖北",
+			"payroll": 29,
+			"ballpark": "Chase Field",
+			"city": "湖北",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "赵鹏杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "华中师范大学城市与环境科学学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "周详云",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浪潮",
+			"industry": "其它"
+		},
+		{
+			"name": "黎华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉理工大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "樊玮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉市国土资源和规划信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "彭明军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉市国土资源和规划信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "邵世维",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉市国土资源和规划信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "杨丽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "胡庆武",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "聂小波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "陈涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "闵梦然",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "李楠",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "辛后林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉海达数云技术有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "范翼",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北金拓维信息技术有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "何亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北金拓维信息技术有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "吴昌文",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北金拓维信息技术有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "邹晶",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北金拓维信息技术有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "曹闯",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武大吉奥信息技术有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "吴杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武大吉奥信息技术有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "周正",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长江流域水环境监测中心",
+			"industry": "水利"
+		},
+		{
+			"name": "陈明文",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉大学测绘遥感信息工程国家重点实验室",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "赵瑜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武大吉奥",
+			"industry": "测绘"
+		},
+		{
+			"name": "张毅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉大学",
+			"industry": "遥感"
+		},
+		{
+			"name": "李学祥",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长江航道规划设计研究院",
+			"industry": "交通"
+		},
+		{
+			"name": "余青容",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长江航道规划设计研究院",
+			"industry": "交通"
+		},
+		{
+			"name": "刘丰阳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长江航道规划设计研究院",
+			"industry": "交通"
+		},
+		{
+			"name": "叶雪峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "武汉海达数云技术有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "陈静",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "长江航道测量中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "陆俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "湖北师范学院",
+			"industry": "教育/院校"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [104.06319000021841, 30.662530999606016]
+	},
+	"properties": {
+		"team": {
+			"name": "四川",
+			"payroll": 10,
+			"ballpark": "Chase Field",
+			"city": "四川",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "李绍辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "成都市农林科学院林科所",
+			"industry": "其它"
+		},
+		{
+			"name": "杨超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中科宇图天下科技有限公司成都分公司",
+			"industry": "其它"
+		},
+		{
+			"name": "唐熙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "成都海芯电子科技有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "成林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "四川空间座标信息科技有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "汪宙峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "西南石油大学资源与环境学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "袁世俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "成都交大光芒科技股份有限公司",
+			"industry": "海洋"
+		},
+		{
+			"name": "石良洲",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江协同数据系统有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "石瑞芙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中电29所",
+			"industry": "测绘"
+		},
+		{
+			"name": "彭明宣",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "成都交大光芒",
+			"industry": "交通"
+		},
+		{
+			"name": "石吉宝",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "成都市勘察测绘研究院",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [121.60685699955094, 38.91448200024415]
+	},
+	"properties": {
+		"team": {
+			"name": "辽宁",
+			"payroll": 51,
+			"ballpark": "Chase Field",
+			"city": "辽宁",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "王诗阳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁师范大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "姜雪峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "盘锦鼎实集团诚旭科技有效公司",
+			"industry": "其它"
+		},
+		{
+			"name": "张进",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁盘锦鼎实集团诚旭网络科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "左红",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁盘锦鼎实集团诚旭网络科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "张丽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "盘锦鼎实实业集团诚旭网络科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "邬庆义",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "盘锦鼎实实业集团诚旭网络科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "王荣新",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "盘锦鼎实实业集团诚旭网络科技有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "刘成",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金普科技有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "张威",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金普科技有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "张东华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金普科技有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "佟大辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金普科技有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "周春峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁省基础测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "王圣贺",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "孙尚宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁工程技术大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "宋伟东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁工程技术大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "沈雨",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "王鑫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "史家欢",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "曲滨",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "高钒",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "马腾",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "唐睿",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "庄严",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "陈杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "孙威",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "高翔宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "龙飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳金建数字城市软件有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "费小宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "绥中县城乡规划局",
+			"industry": "规划"
+		},
+		{
+			"name": "陆育卉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "绥中县城乡规划局",
+			"industry": "规划"
+		},
+		{
+			"name": "吴哲栋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "抚顺市安全生产监督管理局",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "宋学忠",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁工程技术大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "耿继原",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁工程技术大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "王波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁省交通规划设计院",
+			"industry": "交通"
+		},
+		{
+			"name": "郭兆宏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "东北空管局",
+			"industry": "交通"
+		},
+		{
+			"name": "刘飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "东北空管局",
+			"industry": "交通"
+		},
+		{
+			"name": "邓守海",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁金洋集团",
+			"industry": "交通"
+		},
+		{
+			"name": "那鹏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁金洋集团",
+			"industry": "交通"
+		},
+		{
+			"name": "田禹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁金洋集团",
+			"industry": "交通"
+		},
+		{
+			"name": "宫赐禄",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁金洋集团",
+			"industry": "交通"
+		},
+		{
+			"name": "郑成功",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "荣科科技股份有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "高鹏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "荣科科技股份有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "黄妙芬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "大连海洋大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "赵祖龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "大连海洋大学",
+			"industry": "遥感"
+		},
+		{
+			"name": "王菁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁省交通厅",
+			"industry": "交通"
+		},
+		{
+			"name": "刘春来",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁省交通厅",
+			"industry": "交通"
+		},
+		{
+			"name": "许青云",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁工程技术大学",
+			"industry": "遥感"
+		},
+		{
+			"name": "张西军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "沈阳市勘察测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "张云",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋环境监测中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "王飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋环境监测中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "王荣宝",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁省基础测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李玲",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "辽宁工程技术大学",
+			"industry": "教育/院校"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [115.46974700012403, 38.849763999708884]
+	},
+	"properties": {
+		"team": {
+			"name": "河北",
+			"payroll": 79,
+			"ballpark": "Chase Field",
+			"city": "河北",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "任涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地质调查局水文地质环境地质调查中心",
+			"industry": "国土"
+		},
+		{
+			"name": "阮俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "地调局水环中心",
+			"industry": "其它"
+		},
+		{
+			"name": "陈国栋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定市城市设计院",
+			"industry": "测绘"
+		},
+		{
+			"name": "商利薇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "刘文倩",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "刘昭",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "张峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "郭彩云",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "张文彬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "王炜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "张晓岚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "段昭",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪科技开发有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "路尚琨",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "金迪地下管线探测工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "陈姗",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "金迪地下管线探测工程有限公司",
+			"industry": "城市管理"
+		},
+		{
+			"name": "李全乐",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "郭凯",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "田佳鑫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "张学秋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "周京涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "王向坤",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "保定金迪地下管线探测工程有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "陈立英",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "王丽媛  刘忠尧  马红旺",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "肖兴平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地质调查局水环地调中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "刘忠尧",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "李娟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "崔建忠",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "赵富刚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "张克",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "张朝阳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "侯卫娜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "史菁妹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "杨思",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "周杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "马红旺",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "刘杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "王丽媛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "石冬冬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "刘志英",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "陈勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "廊坊管道科技研究中心",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "马纪",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国石油管道科技研究中心",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "袁泉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京特里尼斯石油技术有限公司",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "周利剑",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心完整性所",
+			"industry": "管线"
+		},
+		{
+			"name": "余海冲",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心完整性所",
+			"industry": "管线"
+		},
+		{
+			"name": "贾绍辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "任武",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "韩文超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "李振宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "杨宝龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "郭磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "欧新伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "梁绍辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "郭永",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中油管道科技研究中心",
+			"industry": "管线"
+		},
+		{
+			"name": "高明亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京汇通纵横智能信息技术有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "魏晓慧",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北恒华信息技术有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "郭文辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京汇通纵横智能信息技术有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "祁朋彬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "董国靖",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京汇通纵横智能信息技术有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "冯斌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地质科学院地球物理地球化学勘查研究所",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "梁萌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地质科学院地球物理地球化学勘查研究所",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "高艳芳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地质科学院地球物理地球化学勘查研究所",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "许静",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国电科第五十四研究所",
+			"industry": "其它"
+		},
+		{
+			"name": "路爽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北恒华信息技术有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "左和平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省水利厅",
+			"industry": "水利"
+		},
+		{
+			"name": "韩晓庆",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省国土资源利用规划院",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "刘成海",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国石油管道公司",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "史冠军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国石油集团东方地球物理勘探有限责任公司",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "刘明阳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北师范大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "崔耀仁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省鼠疫防治所",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "王秋燕",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "石家庄博宇科技开发有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "汤智洋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "承德市水务局",
+			"industry": "水利"
+		},
+		{
+			"name": "齐剑",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "承德市防汛办",
+			"industry": "水利"
+		},
+		{
+			"name": "李海东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "承德市防汛办",
+			"industry": "水利"
+		},
+		{
+			"name": "韩革命",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国地质科学院地球物理地球化学勘查研究所",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "杜军辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省交通规划设计院",
+			"industry": "交通"
+		},
+		{
+			"name": "刘洁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省交通规划设计院",
+			"industry": "交通"
+		},
+		{
+			"name": "张忠民",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省交通规划设计院",
+			"industry": "交通"
+		},
+		{
+			"name": "王久亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省交通规划设计院",
+			"industry": "交通"
+		},
+		{
+			"name": "张嫣红",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省交通规划设计院",
+			"industry": "交通"
+		},
+		{
+			"name": "刘彦涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河北省交通厅公路管理局",
+			"industry": "交通"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [113.65675199980501, 34.74997499964654]
+	},
+	"properties": {
+		"team": {
+			"name": "河南",
+			"payroll": 11,
+			"ballpark": "Chase Field",
+			"city": "河南",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "孙宝辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "郑州信息工程大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "史雅娟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河南大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "李宏伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "信息工程大学测绘学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "成毅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "郑州测绘学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "孙庆辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "信息工程大学地理空间信息学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": " 张强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "黄河勘测规划设计有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "王晓理",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "郑州信息工程大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "蒋文正",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河南科普信息技术工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "潘素",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河南科普信息技术工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "卜祥秋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河南科普信息技术工程有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "asdfasd",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "asdfasdfsad",
+			"industry": "水利"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [120.16563399980932, 30.25231399959147]
+	},
+	"properties": {
+		"team": {
+			"name": "浙江",
+			"payroll": 30,
+			"ballpark": "Chase Field",
+			"city": "浙江",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "刘洪江",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "杭州市勘测设计研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李建明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江奥维智能系统集成有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "黄林进",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "杭州市勘测设计研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李自杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江中控软件",
+			"industry": "石油"
+		},
+		{
+			"name": "王艳军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市测绘设计研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "蒋波涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市规划与地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "张志强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市规划与地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "游林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市规划与地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "胡佳薇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省杭州市烟草专卖局",
+			"industry": "其它"
+		},
+		{
+			"name": "蒋善航",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省烟草专卖局",
+			"industry": "其它"
+		},
+		{
+			"name": "叶远智",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "洪胜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "张剑",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "盛琦",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "王峰博",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "吴宏海",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "黄江",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江中科",
+			"industry": "气象"
+		},
+		{
+			"name": "徐红波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "王高强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "李艳宾",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市智慧城管中心",
+			"industry": "城市管理"
+		},
+		{
+			"name": "徐永民",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江臻善科技有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "周富良",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江臻善科技有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "薛晓龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江臻善科技有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "梅元勋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市测绘设计研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "徐央杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "宁波市测绘设计研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "徐文",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江衢州水业集团有限公司",
+			"industry": "水利"
+		},
+		{
+			"name": "刘洪兵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江臻善科技有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "冯建清",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江臻善科技有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "黄文彬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江水利水电高等专科学校",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "骆骐",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浙江省第一测绘院",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [116.98834100023701, 36.64975900027768]
+	},
+	"properties": {
+		"team": {
+			"name": "山东",
+			"payroll": 67,
+			"ballpark": "Chase Field",
+			"city": "山东",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "陈永波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息",
+			"industry": "国土"
+		},
+		{
+			"name": "宁立新",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东农业大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "曲亮",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局北海环境监测中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "孙勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东科技大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "杜明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局北海环境监测中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "张伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省国土测绘院研发中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "徐帮树",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "曾仲毅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "殷庆华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "谭文",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "贾勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "许海蓬",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局第一海洋研究所",
+			"industry": "遥感"
+		},
+		{
+			"name": "郑超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "济南市市政公用局",
+			"industry": "数字城市"
+		},
+		{
+			"name": "刘洋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "王威",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "杨林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "赵茜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东泰华电讯有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "李忠强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局北海分局技术中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "邢京君",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "济南市水务局",
+			"industry": "其它"
+		},
+		{
+			"name": "董翔",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省地震局",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "王志勇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东科技大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "卜志国",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局北海环境监测中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "张祎",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局北海环境监测中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "陈红艳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东农业大学资环学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "聂文婷",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浪潮集团",
+			"industry": "水利"
+		},
+		{
+			"name": "李玉苹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "浪潮集团",
+			"industry": "水利"
+		},
+		{
+			"name": "苏国辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛海洋地质研究所",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "刘国庆",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "胜利油田设计院",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "彭传璠",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "胜利油田设计院",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "崔国刚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "胜利油田设计院",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "薛忠林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "胜利油田设计院",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "王凯",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛国土房管局",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "周文",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "周伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "海军航空工程学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "李明霞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省水利勘测设计院",
+			"industry": "水利"
+		},
+		{
+			"name": "于蓉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省水利勘测设计院",
+			"industry": "水利"
+		},
+		{
+			"name": "曹永锋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "济宁市国土资源局",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "肖燕",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省聊城大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "常松",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "李进强",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "吴建廷",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "淄博市国土资源信息中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "徐世聪",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "管线"
+		},
+		{
+			"name": "王宾宾",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "管线"
+		},
+		{
+			"name": "王申",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东师创软件工程有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "王海银",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛市勘察测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李珲",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东师创软件工程有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "赖超",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛市勘察测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "孙磊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛市勘察测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "綦春峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛市勘察测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "张晶莉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "青岛市勘察测绘研究院",
+			"industry": "测绘"
+		},
+		{
+			"name": "马谦伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "东营市房产交易中心",
+			"industry": "规划"
+		},
+		{
+			"name": "解靓",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "烟台海歌地理信息技术有限公司",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "王程",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "烟台市公安交通警察支队",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "徐建科",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "枣庄市公安局",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "刘德瑞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省公安厅",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "马骊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "烟台市公安局",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "苏志刚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "张月香",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "裴洪云",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东正元地理信息工程有限责任公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "鲍迎新",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东同圆设计集团",
+			"industry": "规划"
+		},
+		{
+			"name": "刘加森",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东同圆设计集团",
+			"industry": "规划"
+		},
+		{
+			"name": "高林",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东同圆设计集团",
+			"industry": "规划"
+		},
+		{
+			"name": "郑岩",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东同圆设计集团",
+			"industry": "规划"
+		},
+		{
+			"name": "王成龙",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "胜利油田胜利设计勘察有限公司",
+			"industry": "石油/石化"
+		},
+		{
+			"name": "相恒茂",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省国土测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "李浩",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "山东省国土测绘院",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘董梅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "胜利设计院",
+			"industry": "管线"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [118.74849700013647, 32.07063399995916]
+	},
+	"properties": {
+		"team": {
+			"name": "江苏",
+			"payroll": 46,
+			"ballpark": "Chase Field",
+			"city": "江苏",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "赵明进",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京华苏科技有限公司",
+			"industry": "电信"
+		},
+		{
+			"name": "冯晨",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京铭图软件科技有限公司",
+			"industry": "国土"
+		},
+		{
+			"name": "徐倩",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京师范大学泰州学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "龚鑫鑫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "吴兵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "叶虎",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "陈明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "刘绍贵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "杭天文",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "高晖",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州土肥站",
+			"industry": "农业"
+		},
+		{
+			"name": "李文西",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "姜义",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市土壤肥料站",
+			"industry": "农业"
+		},
+		{
+			"name": "王健",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "扬州市国土资源局",
+			"industry": "国土"
+		},
+		{
+			"name": "黄翌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国矿业大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "杨坤",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省血吸虫病防治研究所",
+			"industry": "卫生"
+		},
+		{
+			"name": "郝敬锋",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "新加坡邦城规划顾问有限公司",
+			"industry": "规划"
+		},
+		{
+			"name": "王东明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京朗坤软件有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "罗健",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学水文水资源学院",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "朱周华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "谢燕",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "晏王波",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学",
+			"industry": "水利"
+		},
+		{
+			"name": "徐盼",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学",
+			"industry": "水利"
+		},
+		{
+			"name": "赵杏杏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学",
+			"industry": "水利"
+		},
+		{
+			"name": "王丹",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "吕志慧",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘昱君",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "徐希涛",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国网电力科学研究院",
+			"industry": "电力"
+		},
+		{
+			"name": "张宏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京师范大学虚拟地理环境教育部重点实验室",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "孙映",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "镇江优捷信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "孙耕宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "镇江优捷信息技术有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "金艳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京太亚科技有限责任公司",
+			"industry": "管线"
+		},
+		{
+			"name": "戴相喜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京市测绘勘察研究院有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "苏鹰滨",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "王华辰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "张骏源",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "河海大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "石晓峰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省测绘工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "奚忠杰",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省测绘工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "徐贵阳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省测绘工程院",
+			"industry": "测绘"
+		},
+		{
+			"name": "谢国贤",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "南京朗坤软件有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "程伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省地质勘查技术院",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "张华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "常州市公安局/常州市应急中心",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "胡雷地",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "苏州市公安局",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "宫文飞",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "常州市公安局/常州市应急中心",
+			"industry": "公安/消防"
+		},
+		{
+			"name": "吴勤书",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "陶旸",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		},
+		{
+			"name": "聂时贵",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "江苏省基础地理信息中心",
+			"industry": "测绘"
+		}]
+	}
+},
+{
+	"geometry": {
+		"type": "Point",
+		"coordinates": [114.0999629996927, 22.549033000372713]
+	},
+	"properties": {
+		"team": {
+			"name": "广东",
+			"payroll": 43,
+			"ballpark": "Chase Field",
+			"city": "广东",
+			"league": "National League",
+			"year": "2012"
+		},
+		"children": [{
+			"name": "彭春英",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市 恒飞盈通科技有限公司",
+			"industry": "气象"
+		},
+		{
+			"name": "马云凯",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东南方数码科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "王昊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省电力设计研究院",
+			"industry": "电力"
+		},
+		{
+			"name": "刘畅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州都市圈网络科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "刘宁",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州都市圈网络科技有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "罗永兴",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市金山科技有限公司",
+			"industry": "合作伙伴"
+		},
+		{
+			"name": "朱鑫月",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市规划国土发展研究中心",
+			"industry": "规划"
+		},
+		{
+			"name": "郑楠",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "佛山市城市地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "顾艳丽",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "佛山市城市地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "梁景东",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "佛山市城市地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "孔春辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "北京辰安伟业科技有限公司广州分公司",
+			"industry": "应急/安监"
+		},
+		{
+			"name": "梁瑞松",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "航天数联信息技术(深圳)有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "毛一婷",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "佛山市城市地理信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "杨成韫",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市规划国土发展研究中心",
+			"industry": "规划"
+		},
+		{
+			"name": "张永华",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省气象信息中心",
+			"industry": "气象"
+		},
+		{
+			"name": "温金辉",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市综合交通设计研究院",
+			"industry": "交通"
+		},
+		{
+			"name": "邱俊",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市规划国土发展研究中心",
+			"industry": "规划"
+		},
+		{
+			"name": "赖权有",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市规划国土发展研究中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "林勇军",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市规划国土发展研究中心",
+			"industry": "国土/地矿"
+		},
+		{
+			"name": "白毅平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局南海预报中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "李小稳",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省电力设计研究院",
+			"industry": "电力"
+		},
+		{
+			"name": "余旭",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东工业大学",
+			"industry": "测绘"
+		},
+		{
+			"name": "王挺",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省地震应急与信息中心",
+			"industry": "其它"
+		},
+		{
+			"name": "王煜",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "金鹏电子信息机器有限公司",
+			"industry": "数字城市"
+		},
+		{
+			"name": "曾丽红",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局南海预报中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "杨超宇",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "国家海洋局南海预报中心",
+			"industry": "海洋"
+		},
+		{
+			"name": "柯建雄",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省公路管理局",
+			"industry": "交通"
+		},
+		{
+			"name": "周朝毅",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省公路管理局",
+			"industry": "交通"
+		},
+		{
+			"name": "肖志平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州市天河区科技和信息化局",
+			"industry": "其它"
+		},
+		{
+			"name": "张俊武",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州市天河区科技和信息化局",
+			"industry": "其它"
+		},
+		{
+			"name": "林贤斌",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州市中海达测绘仪器有限公司",
+			"industry": "测绘"
+		},
+		{
+			"name": "刘伟",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州中海达卫星导航技术股份有限公司",
+			"industry": "其它"
+		},
+		{
+			"name": "田福新",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "清远市城建规划信息中心",
+			"industry": "城市管理"
+		},
+		{
+			"name": "陈隽敏",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中国能源建设集团广东省电力设计研究院",
+			"industry": "电力"
+		},
+		{
+			"name": "王海平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "清新县城建规划信息中心",
+			"industry": "规划"
+		},
+		{
+			"name": "杨忠智",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "深圳市建筑科学研究院有限公司",
+			"industry": "规划"
+		},
+		{
+			"name": "何洁妍",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州市城市规划编制研究中心",
+			"industry": "规划"
+		},
+		{
+			"name": "田剑平",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广州公共自行车运营管理有限公司",
+			"industry": "交通"
+		},
+		{
+			"name": "周志刚",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东龙泉科技有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "黄昱",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "中流电力咨询有限公司",
+			"industry": "电力"
+		},
+		{
+			"name": "王前程",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "汕头大学",
+			"industry": "教育/院校"
+		},
+		{
+			"name": "林其明",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省天然气管网有限公司",
+			"industry": "管线"
+		},
+		{
+			"name": "董云云",
+			"position": "Catcher",
+			"salary": 1,
+			"addr": "广东省天然气管网有限公司",
+			"industry": "石油/石化"
+		}]
+	}
+}]
